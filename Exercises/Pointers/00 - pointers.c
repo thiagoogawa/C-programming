@@ -15,7 +15,7 @@
 
 // example:
 // int a = 5;
-// int *p;  --> p = &a;
+// int *p;
 // printf("%d", a); --> 5 
 // printf("%p", &a); --> address of "a"  <9283823>
 
