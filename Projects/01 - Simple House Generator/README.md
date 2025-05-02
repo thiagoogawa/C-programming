@@ -5,7 +5,6 @@ A simple C program that uses dynamic memory allocation (malloc and free) to gene
 
 You will be prompted to enter the number of houses to generate. The program will then display each house’s attributes:
 
-```plaintext
 Enter the number of houses to generate: 3
 
 ====== HOUSE 1 ======
